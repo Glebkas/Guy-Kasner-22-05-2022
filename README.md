@@ -20,12 +20,12 @@ Users should be able to:
 -   Toggle between dark and light modes
 -   Search for a specific city by typing a name
 -   The Search bar Should autocomplete the name
--   Display Selcted location Current Weather conditons
--   Display 5 day forcast for the selected city
--   Toggle between dgree units
--   Save city to favoriets
--   Navigate to favoriets page and see all saved locations
--   See the Current condition at your current location by ip adress
+-   Display Selected location Current Weather conditions
+-   Display 5-day forecast for the selected city
+-   Toggle between degree units
+-   Save city to favorites
+-   Navigate to the favorites page and see all saved locations
+-   See the Current condition at your current location by IP address
 
 
 ### Links
