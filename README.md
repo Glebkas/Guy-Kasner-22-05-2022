@@ -1,4 +1,4 @@
-# Countries of the world
+# Weather app
 
 ## Table of contents
 
